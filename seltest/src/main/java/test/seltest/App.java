@@ -9,8 +9,7 @@ import org.openqa.selenium.phantomjs.PhantomJSDriver;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
+   
         public static void main(String[] args) 
 	{
 		abc obj = new abc();
@@ -38,4 +37,4 @@ public class App
 		}
 	}
     }
-}
+
