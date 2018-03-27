@@ -12,7 +12,7 @@ public class App
    
         public static void main(String[] args) 
 	{
-		abc obj = new abc();
+		seltest obj = new seltest();
 		File file = new File("/home/chawla_sanyam101/phantomjs-2.1.1-linux-i686/bin/phantomjs");	
         
 		System.setProperty("phantomjs.binary.path", file.getAbsolutePath());		
